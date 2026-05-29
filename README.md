@@ -4,7 +4,7 @@
 
 A tiny, beautiful, and practical web app designed to keep students organized, focused, and a little less stressed. It bundles quick links, small utilities, and handy tips into a single, easy-to-open static page — perfect for study sessions, group projects, or as a starter project to customize and learn from.
 
-![Screenshot preview](https://user-images.githubusercontent.com/000/placeholder.png)
+
 
 ## Table of Contents
 
@@ -102,11 +102,3 @@ Please follow the existing code style and keep changes focused.
 This project is released under the MIT License. See the `LICENSE` file for details.
 
 Created with ❤️ — inspired by students, for students.
-
----
-
-If you'd like, I can also:
-
-- Add a `LICENSE` file (MIT) if you don't already have one.
-- Commit the README to Git and create an initial branch.
-- Generate a screenshot image or favicons to replace the placeholder.
