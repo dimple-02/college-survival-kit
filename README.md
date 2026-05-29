@@ -1,6 +1,6 @@
 # College Survival Kit
 
-[![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE) [![Open Issues](https://img.shields.io/github/issues-raw/yourname/college-survival-kit.svg)](https://github.com/) [![Made with ❤️](https://img.shields.io/badge/Made%20with-%E2%9D%A4-red.svg)](https://github.com/)
+[![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE) [![Open Issues](https://img.shields.io/github/issues-raw/dimple-02/college-survival-kit.svg)](https://github.com/) [![Made with ❤️](https://img.shields.io/badge/Made%20with-%E2%9D%A4-red.svg)](https://github.com/)
 
 A tiny, beautiful, and practical web app designed to keep students organized, focused, and a little less stressed. It bundles quick links, small utilities, and handy tips into a single, easy-to-open static page — perfect for study sessions, group projects, or as a starter project to customize and learn from.
 
